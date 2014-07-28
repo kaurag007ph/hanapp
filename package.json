@@ -1,0 +1,12 @@
+{
+    "name": "hanaap",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest",
+        "body-parser": "latest",
+        "MD5": "latest",
+        "morgan": "latest",
+        "method-override" : "~2.0.2"
+    }
+}
