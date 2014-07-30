@@ -1,1 +1,1 @@
-var hanApp = angular.module('hanApp', ['ngRoute']);
+var hanApp = angular.module('hanApp', ['ui.router']);
